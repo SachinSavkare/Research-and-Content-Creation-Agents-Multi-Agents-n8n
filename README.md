@@ -1,4 +1,4 @@
-# Insight2Post — Automated Research→Multi-Platform Content Pipeline 🚀
+# AI-Powered Research-to-Content — Create & Publish with AI Agents
 
 ![Status](https://img.shields.io/badge/status-ready-blue)
 ![Tavily](https://img.shields.io/badge/Tavily-API-blue)
